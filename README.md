@@ -1,4 +1,4 @@
-# Ardhi Haven
+# Ardhi flex
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/flexy-cloud12/ardhiFlex-premium-kenyan-land-marketplace)
 
@@ -131,3 +131,4 @@ Built with ❤️ by Andromo. Questions? Open an issue.
 ---
 
 ⭐ Star on GitHub if useful!
+
